@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1590354206 source:c:\users\avram\desktop\poo\poo-1\src\numarcomplex.cpp
+	"NumarComplex.h"
+	<cstdlib>
+
+1590354206 c:\users\avram\desktop\poo\poo-1\include\numarcomplex.h
+	<iostream>
+
+1590356759 source:c:\users\avram\desktop\poo\poo-1\src\matricecomplexa.cpp
+	"MatriceComplexa.h"
+	<iostream>
+	<cstdlib>
+
+1590355380 c:\users\avram\desktop\poo\poo-1\include\matricecomplexa.h
+	"NumarComplex.h"
+	<iostream>
+
+1590356759 source:c:\users\avram\desktop\poo\poo-1\main.cpp
+	<iostream>
+	"NumarComplex.h"
+	"MatriceComplexa.h"
+	<fstream>
+
